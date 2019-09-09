@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secure Password Management Tool", "Secure Password Management Tool\Secure Password Management Tool.csproj", "{ABB96233-2EDD-4267-9379-16969BBC745A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB96233-2EDD-4267-9379-16969BBC745A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB96233-2EDD-4267-9379-16969BBC745A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB96233-2EDD-4267-9379-16969BBC745A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB96233-2EDD-4267-9379-16969BBC745A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {922637EC-2EE0-4627-AE6B-F89407A08869}
+	EndGlobalSection
+EndGlobal
